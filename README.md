@@ -8,11 +8,11 @@
 
 ### **1. Aim:**
 - Learn:
-        - HTML
-        - CSS
-        - Python
-        - Azure Functions
-        - Azure Cosmos DB
+    - HTML
+    - CSS
+    - Python
+    - Azure Functions
+    - Azure Cosmos DB
 
 ### **2. Repo Structure:**
 - `/frontend`: Website file
@@ -23,6 +23,4 @@
 ### **3. Architecture:**
 
 ### **4. References:**
-
-
-test 1
+  - Aaron jack. (2021). *What is an API (in 5 minutes).* https://www.youtube.com/watch?v=ByGJQzlzxQg
