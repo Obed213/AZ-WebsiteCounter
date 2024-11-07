@@ -1,4 +1,4 @@
-# **AZ-WebsiteCounter **
+# **AZ-WebsiteCounter**
 
 ### **Table of contents**
   1. Aim
